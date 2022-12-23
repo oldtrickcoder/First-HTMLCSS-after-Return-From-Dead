@@ -50,4 +50,8 @@ and he refuse to answer it , so that's why I put other files in a form html and 
  
    ![Moral lessons](https://media.giphy.com/media/PiQ7UCeXF1djOdTWZR/giphy.gif)
    
-> DO WHAT YOUR LOVE
+> DO WHAT YOUR LOVE,No Matters what Others Peoples Said, Just Believe in yourself ,and YOU CAN DO IT !!!
+
+ ![Moral lessons](https://media.giphy.com/media/87xihBthJ1DkA/giphy.gif)
+
+
