@@ -25,4 +25,26 @@ Everythings Can Happen in the future, I remember back then 8 years ago when I al
 ## Moral Lesson is 
 > Just Do Whatever You Love in this Lifetime, Don't Always listen what others peoples said about something,someone or anything... , because sometimes what bad in the eyes of  others people perception, doesn't mean is bad for you too.
 
-
+# About This Repo
+   This Repo is just reminder for myself also for others who will try to start a career as a software or web developer, several years ago , when I just an ordinary Management Graduated I asked my friend of mine who already being a Senior Software Engineer in Indonesia , just
+   > How to Connecting between CSS and HTML ? 😂😂😂
+ and he refuse to answer it , so that's why I put other files in a form html and CSS , that file is exactly the same file i used when try to learn coding again ,Time goes by So fast, ✨ THANKS TO GOD ✨ and also thanks for many content creator on youtube who provide me coding class and course.So Imagine from the Person who really cannot understand how to connect html, and css right now I at least I understand about:
+ * HTML
+ * CSS
+ * Vanilla Javascript
+ * Jquery
+ * Nodejs
+ * PHP
+ * C#
+ * Database: Mysql,mariadb,mongodb,postgresql,Microsoft SQL Server
+ * Reactjs
+ * VueJS
+ * EJS
+ * Laravel
+ * Codeigniter 4
+ * Blade template engine
+ and also several Software architect concept in a form Monolitic and microservices, also now I still learn about CI-CD pipeline using github workflows and Azure Devops.... And also I developed my own email server actually in google cloud console, using NGINX,Roundcube
+ 
+   ![Moral lessons](https://media.giphy.com/media/PiQ7UCeXF1djOdTWZR/giphy.gif)
+   
+> DO WHAT YOUR LOVE
